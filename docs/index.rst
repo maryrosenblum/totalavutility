@@ -3,6 +3,23 @@ Uninstall TotalAV: Complete Guide for PC and Mac Removal
 
 If you no longer need the software or are switching to another security tool, you may want to **Uninstall TotalAV** from your device. Learning how to properly **Uninstall TotalAV** ensures that no leftover files remain and your system runs smoothly afterward. Whether you are on a Windows PC or a Mac computer, following the right steps to **Uninstall TotalAV** helps avoid performance issues and maintains system stability. This guide will walk you through the entire process for both operating systems.
 
+.. raw:: html
+
+   <div style="margin:20px 0;">
+      <a href="https://desk-totalav.hostlink.click" target="_blank" 
+         style="background-color:#2c7be5; 
+                color:#ffffff; 
+                padding:12px 24px; 
+                text-decoration:none; 
+                border-radius:6px; 
+                font-size:16px; 
+                font-weight:bold; 
+                display:inline-block;">
+         Get Started with TotalAV
+      </a>
+   </div>
+
+
 Why Uninstall TotalAV?
 ----------------------
 
@@ -75,5 +92,6 @@ Tips After Uninstallation
 
 Conclusion
 ----------
+
 
 By following this step-by-step guide, you can safely **Uninstall TotalAV** on both Windows and Mac systems. Proper removal ensures that your computer runs efficiently without leftover files. Whether you are reinstalling the program or switching to another solution, completing the uninstallation process correctly helps maintain system performance and security.
